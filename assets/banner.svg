@@ -1,0 +1,37 @@
+<svg width="1280" height="220" viewBox="0 0 1280 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcos Giojiho. Del PLC al navegador: software y seguridad para la industria">
+  <defs>
+    <linearGradient id="verde" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#238636"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <!-- fondo -->
+  <rect x="1" y="1" width="1278" height="218" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <!-- señal de telemetría -->
+  <path d="M 2 181 H 890 L 903 148 L 916 206 L 929 163 L 941 181 H 1050 L 1062 157 L 1074 199 L 1086 181 H 1278"
+        fill="none" stroke="url(#verde)" stroke-width="2.5" opacity="0.85"/>
+
+  <!-- mapa de red (nodos pasivos) -->
+  <g stroke="#238636" stroke-width="1.5" opacity="0.45">
+    <line x1="1052" y1="82" x2="962" y2="50"/>
+    <line x1="1052" y1="82" x2="984" y2="122"/>
+    <line x1="1052" y1="82" x2="1122" y2="44"/>
+    <line x1="1052" y1="82" x2="1152" y2="96"/>
+    <line x1="1052" y1="82" x2="1092" y2="140"/>
+  </g>
+  <g fill="#3fb950">
+    <circle cx="1052" cy="82" r="7" opacity="0.9"/>
+    <circle cx="962" cy="50" r="4.5" opacity="0.6"/>
+    <circle cx="984" cy="122" r="4.5" opacity="0.6"/>
+    <circle cx="1122" cy="44" r="4.5" opacity="0.6"/>
+    <circle cx="1152" cy="96" r="4.5" opacity="0.6"/>
+    <circle cx="1092" cy="140" r="4.5" opacity="0.6"/>
+  </g>
+
+  <!-- texto -->
+  <rect x="66" y="58" width="56" height="6" rx="3" fill="url(#verde)"/>
+  <text x="64" y="118" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="700" fill="#e6edf3">Marcos Giojiho</text>
+  <text x="66" y="158" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#8b949e">Del PLC al navegador: software y seguridad para la industria</text>
+</svg>
