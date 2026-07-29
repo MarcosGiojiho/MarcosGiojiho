@@ -1,12 +1,12 @@
-<img src="assets/banner.svg" width="100%" alt="Marcos Giojiho. Del PLC al navegador: software y seguridad para la industria"/>
+<img src="assets/banner.svg" width="100%" alt="Marcos Giojiho. Del navegador al PLC: software y seguridad para la industria"/>
 
 <p align="right"><sub><a href="#english-version">English version</a></sub></p>
 
 ## Sobre mí
 
-Hago software de todo tipo: aplicaciones corporativas, sistemas de reservas, simuladores, apps móviles. Pero mi terreno favorito es la frontera entre dos mundos que casi nunca se hablan: la **planta industrial** y el **software moderno**.
+Soy desarrollador full stack: aplicaciones web y móviles, APIs, sistemas de reservas, simuladores, y la infraestructura donde todo eso corre. Ese es mi mundo y ahí pasa la mayor parte de mi trabajo.
 
-Ahí mi trabajo es hacer que instalaciones reales, como plantas fotovoltaicas, se puedan controlar y supervisar desde un navegador o un móvil, y llevar esa experiencia al terreno de la seguridad y el cumplimiento. Saber lo que pasa dentro del PLC y también en el navegador es lo que define cómo diseño software.
+Lo que me diferencia es que también sé cruzar una frontera que casi nadie cruza: la de la **planta industrial**. Cuando hay que leer un PLC, montar telemetría o controlar una máquina desde el navegador, no necesito traductor. Vivo en el mundo del software y sé trabajar en el de la planta.
 
 En junio de 2026 terminé el Curso de Especialización de FP en Ciberseguridad (hacking ético, análisis forense, bastionado y respuesta a incidentes), y ahora estoy llevando esa base al terreno donde menos gente la aplica: las redes industriales.
 
@@ -109,9 +109,9 @@ Y no me quedo en el código. Lo que construyo lo pongo yo en producción: virtua
 
 <br/>
 
-I build all kinds of software: corporate applications, booking systems, simulators, mobile apps. But my favorite ground is the border between two worlds that rarely talk to each other: the **factory floor** and **modern software**.
+I'm a full stack developer: web and mobile applications, APIs, booking systems, simulators, and the infrastructure everything runs on. That's my world, and it's where most of my work happens.
 
-There, my job is making real industrial facilities, like solar plants, controllable and observable from a browser or a phone, and bringing that experience into security and compliance work. Knowing what happens inside the PLC and in the browser is what shapes how I design software.
+What sets me apart is that I can also cross a border almost nobody crosses: the one into the **factory floor**. When a PLC needs reading, telemetry needs building or a machine needs controlling from a browser, I don't need a translator. I live in the software world and I know how to work in the plant.
 
 In June 2026 I completed Spain's official vocational Specialization Course in Cybersecurity (ethical hacking, digital forensics, system hardening and incident response), and I'm now taking that foundation to the field where fewest people apply it: industrial networks.
 
